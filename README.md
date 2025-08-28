@@ -9,9 +9,9 @@ AtliQ Hardwares, a well-known consumer electronics company with a presence in mu
 To create an easy-to-use, automated Power BI dashboard that gives Finance, Sales, Marketing, and Supply Chain teams the power to track performance, find hidden opportunities, and take action based on real insights.
 
 ## Key Achievements:
-*Built a single dashboard that brings together 1.8M+ records from multiple teams into one place.
-*Used advanced techniques like data modeling, Power Query, DAX, and M language, along with bookmarks, slicers, and interactive tooltips to make data exploration smooth and meaningful.
-*Strengthened expertise in SQL, Power BI Desktop, Excel, and DAX Studio to create faster, cleaner, and more reliable reports.
+* Built a single dashboard that brings together 1.8M+ records from multiple teams into one place.
+* Used advanced techniques like data modeling, Power Query, DAX, and M language, along with bookmarks, slicers, and interactive tooltips to make data exploration smooth and meaningful.
+* Strengthened expertise in SQL, Power BI Desktop, Excel, and DAX Studio to create faster, cleaner, and more reliable reports.
 
 ## Project Overview:
 * 💵Finance : Tracks Net Sales, Gross Margin %, and Net Profit %, with a dynamic P&L showing YoY trends.
