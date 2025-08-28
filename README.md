@@ -1,22 +1,21 @@
-# Business_Insights_360
+# Business Insights 360
 
 Explore the Dashboard by [clicking here](https://app.powerbi.com/view?r=eyJrIjoiMWRiM2I2NDItZjlhNC00OGVlLWE2ZDUtNTMzMGFmNWE1OWVhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Problem Statement:
-AtliQ Hardwares, a leading consumer electronics company with a global footprint, is facing a critical challenge. Despite their rapid expansion across various countries, they've recently suffered significant losses in the Latin American market. The culprit? Ineffective data analytics.
+AtliQ Hardwares, a well-known consumer electronics company with a presence in multiple countries, was struggling to make informed decisions. Despite expanding rapidly, they faced heavy losses in the Latin American market because their existing analytics were failing to tell the real story behind the numbers.
 
 ## Project Objective:
-Our goal was to develop an automated Power BI dashboard for the Finance, Sales, Marketing, and Supply Chain teams, empowering them to analyze data effectively and make informed decisions.
+To create an easy-to-use, automated Power BI dashboard that gives Finance, Sales, Marketing, and Supply Chain teams the power to track performance, find hidden opportunities, and take action based on real insights.
 
 ## Key Achievements:
-- Designed a tailored Power BI dashboard for Finance, Sales, Marketing, and Supply Chain teams, managing over 1.8 million records.
-- Mastered data modeling, Power Query, DAX, bookmarks, buttons, toggle buttons, slicers, tooltips, and M Language to enhance user experience with impactful visualizations.
-- Acquired proficiency in SQL, Power BI Desktop, Excel, and DAX Studio for optimizing reports.
+-Built a single dashboard that brings together 1.8M+ records from multiple teams into one place.
+-Used advanced techniques like data modeling, Power Query, DAX, and M language, along with bookmarks, slicers, and interactive tooltips to make data exploration smooth and meaningful.
+-Strengthened expertise in SQL, Power BI Desktop, Excel, and DAX Studio to create faster, cleaner, and more reliable reports.
 
 ## Project Overview:
-* 💵Finance View: created key KPIs like Net Sales, Gross Margin %, and Net Profit % and dynamic P&L statement with YoY growth.
-* 📈Sales View: Analyzes net sales, gross margin across various customers & products.
-* 🌐Marketing View: showcases performance metrics across market segments, including net sales and gross margin percentages, COGS.
-* 📦Supply Chain View: Implemented metrics for forecast accuracy, net error, and absolute error. Key indicators by customer and product segment boost efficiency and mitigate risks.
-* 💼Executive View: consolidates KPIs such as Net Sales, Gross Margin, and Net Profit, alongside analyses of top customers, products, sub-regions and total revenue contributed over the years.
-
+* 💵Finance : Tracks Net Sales, Gross Margin %, and Net Profit %, with a dynamic P&L showing YoY trends.
+* 📈Sales View: Highlights customer and product-wise sales and margin performance.
+* 🌐Marketing View: Displays market segment insights including Net Sales, Gross Margin %, and COGS.
+* 📦Supply Chain View: Monitors forecast accuracy, errors, and key logistics KPIs to improve planning.
+* 💼Executive View: Brings it all together—top customers, products, sub-regions, and multi-year revenue snapshots to support quick decisions.
