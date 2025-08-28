@@ -10,7 +10,9 @@ To create an easy-to-use, automated Power BI dashboard that gives Finance, Sales
 
 ## Key Achievements:
 -Built a single dashboard that brings together 1.8M+ records from multiple teams into one place.
+
 -Used advanced techniques like data modeling, Power Query, DAX, and M language, along with bookmarks, slicers, and interactive tooltips to make data exploration smooth and meaningful.
+
 -Strengthened expertise in SQL, Power BI Desktop, Excel, and DAX Studio to create faster, cleaner, and more reliable reports.
 
 ## Project Overview:
